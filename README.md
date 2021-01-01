@@ -17,7 +17,6 @@
 <a href="https://linkedin.com/in/jitendra-kumar-861451193" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jitendra-kumar-861451193" height="30" width="40" /></a>
 <a href="https://fb.com/jitendrakumar.rajput.944" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jitendrakumar.rajput.944" height="30" width="40" /></a>
 <a href="https://instagram.com/jiendra_kumar_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jiendra_kumar_" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/jitendrakumar7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jitendrakumar7" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/jkrlr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="jkrlr" height="30" width="40" /></a>
 </p>
 
