@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **2019075@iiitdmj.ac.in**
 
+- 🥅 2021 Goals: Contribute more to Open Source projects
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jkrlr01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jkrlr01" height="30" width="40" /></a>
