@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/jkrlr01" target="blank"><img src="https://img.shields.io/twitter/follow/jkrlr01?logo=twitter&style=for-the-badge" alt="jkrlr01" /></a> </p>
 
-- 💬 Ask me about **Python, Django**
+- 💬 Ask me about **Anything**
 
 - 📫 How to reach me **2019075@iiitdmj.ac.in**
 
