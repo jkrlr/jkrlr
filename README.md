@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jkrlr01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jkrlr01" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/jkrlr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jitendra-kumar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jkrlr/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jitendra-kumar" height="30" width="40" /></a>
 <a href="https://www.facebook.com/jkrlr01/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jitendrakumar.rajput.944" height="30" width="40" /></a>
 <a href="https://instagram.com/jiendra_kumar_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jiendra_kumar_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/jkrlr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="jkrlr" height="30" width="40" /></a>
